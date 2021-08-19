@@ -13,3 +13,7 @@ A final Project Presentation showing the Relevant Technical Informationa and Dia
 
 A Powerpoint presentation to show the Flow of the PowerApp has been added to the Repository. 
 
+Relational Diagram 
+![image](https://user-images.githubusercontent.com/54928543/130002785-0939d7a1-2901-404b-bc0e-d9f068dbb048.png)
+
+
