@@ -1,6 +1,6 @@
 # ATHLEISURE
 * A Database project for a company which sells Sporting Goods. 
-  This Database project is donw in MySQL and the data was deployed on Microsoft Azure. 
+  This Database project is done in MySQL and the data was deployed on Microsoft Azure. 
 
 * Relevant ER diagrams and Project Requirements have been Uploaded in the repository itself. 
   Conceptual Model and Relational Model have been uploaded. 
