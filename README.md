@@ -1,24 +1,24 @@
-# Athleisure
-A Database project for a company which sells Sporting Goods. 
-This Database project is donw in MySQL and the data was deployed on Microsoft Azure. 
+# ATHLEISURE
+* A Database project for a company which sells Sporting Goods. 
+  This Database project is donw in MySQL and the data was deployed on Microsoft Azure. 
 
-Relevant ER diagrams and Project Requirements have been Uploaded in the repository itself. 
-Conceptual Model and Relational Model have been uploaded. 
+* Relevant ER diagrams and Project Requirements have been Uploaded in the repository itself. 
+  Conceptual Model and Relational Model have been uploaded. 
 
-The one click Executable down-up SQL query with CRUD operations and certain queries has also been uploaded. 
+* The one click Executable down-up SQL query with CRUD operations and certain queries has also been uploaded. 
 
-A Microsoft Powerapp has also been added to the Repository Whic uses Microsoft Azure to link to data and then Run the app. 
+* A Microsoft Powerapp has also been added to the Repository Whic uses Microsoft Azure to link to data and then Run the app. 
 
-A final Project Presentation showing the Relevant Technical Informationa and Diagrams have been Uploaded. 
+* A final Project Presentation showing the Relevant Technical Informationa and Diagrams have been Uploaded. 
 
-A Powerpoint presentation to show the Flow of the PowerApp has been added to the Repository. 
+* A Powerpoint presentation to show the Flow of the PowerApp has been added to the Repository. 
 
-Relational Diagram 
+* RELATIONAL DIAGRAM 
 
 
 ![image](https://user-images.githubusercontent.com/54928543/132106972-b1916a04-c43c-4b3b-8626-6106d785f947.png)
 
-Conceptual Model 
+* CONCEPTUAL MODEL 
 
 
 ![image](https://user-images.githubusercontent.com/54928543/132106935-44bdd357-347f-4996-95c0-c5b2199f5837.png)
