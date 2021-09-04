@@ -1,4 +1,7 @@
 # ATHLEISURE
+
+![image](https://user-images.githubusercontent.com/54928543/132107938-fc8cafa9-07bc-4e2c-9598-73bd9f59863c.png)
+
 * A Database project for a company which sells Sporting Goods. 
   This Database project is done in MySQL and the data was deployed on Microsoft Azure. 
 
